@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b1def50-4c6b-4a9c-b04f-ba26173d3502" name="Default Changelist" comment="" />
+    <list default="true" id="8b1def50-4c6b-4a9c-b04f-ba26173d3502" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CurrentDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/comjavacommonfinal.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test9.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +61,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -29,11 +79,14 @@
   </component>
   <component name="ProjectId" id="1Q846WhK78XElFrY7ZYFIwzMMSH" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,17 +100,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test33">
-    <configuration name="Test28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test28" />
-      <module name="comjavacommonfinal" />
+  <component name="RunManager" selected="Application.CurrentDate">
+    <configuration name="CurrentDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CurrentDate" />
+      <module name="com.java.common.final" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test29" />
-      <module name="comjavacommonfinal" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="com.java.common.final" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CurrentDate" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test33" />
         <item itemvalue="Application.Test32" />
         <item itemvalue="Application.Test31" />
-        <item itemvalue="Application.Test29" />
-        <item itemvalue="Application.Test28" />
       </list>
     </recent_temporary>
   </component>
@@ -103,93 +156,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563255252320</updated>
+      <workItem from="1567682201229" duration="154000" />
     </task>
     <servers />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>comjavacommonfinal</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8 (2)</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

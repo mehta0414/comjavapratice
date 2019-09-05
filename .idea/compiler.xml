@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="comjavacommonfinal" />
+        <module name="com.java.common.final" />
       </profile>
     </annotationProcessing>
   </component>
